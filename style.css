@@ -204,6 +204,10 @@
 
 
 /* third-section */
+.form-control:focus {
+    border-color: #26296a49;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
+} 
 
 .third-section{
     background-color: #faf7ea;
