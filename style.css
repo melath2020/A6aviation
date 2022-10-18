@@ -239,7 +239,18 @@
     padding-right: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
+    transition: 0.5s;
 }
+.btn-send:hover{
+    border: none;
+    background-color: #2b2e5a;
+    color:#fff;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 
 
 /* managed-fleet */
