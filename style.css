@@ -41,6 +41,14 @@
     margin-left: 20px;
     font-size: 16px;
 }
+.menu a:hover{
+
+    font-family:'GT Super Display Light'; 
+    text-decoration: none;
+    color: #c6a720;
+    margin-left: 20px;
+    font-size: 16px;
+}
 .menu img{
     padding-left: 35px;
 }
